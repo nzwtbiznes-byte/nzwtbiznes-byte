@@ -1,6 +1,6 @@
 # Hi there 👋
 
-Hi, my name is Adam, I'm 17 and I'm a student at a high school who’s really into web development and modern technologies.
+Hi, my name is Adam, I'm 17 and I'm a student!
 
 ## 🚀 About Me
 
