@@ -13,10 +13,6 @@ Hi, my name is Adam, I'm 17 and I'm a student!
 
 ## 🛠️ Technologies
 
-### Main
-
-* PHP
-
 ### Currently Learning
 
 * JavaScript
