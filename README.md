@@ -6,7 +6,6 @@ Hi, my name is Adam, I'm 17 and I'm a student!
 
 * 🏝️| I live in Poland
 * 🎓| Currently studying
-* 💻| Focused on full-stack web development
 * 🌱| Constantly learning and improving my skills
 * ⚡| Building projects to gain practical experience
 * 🥙| I love kebabs
